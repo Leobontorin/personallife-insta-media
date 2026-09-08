@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "data": "2026-09-04",
+      "arquivo": "post07.png (fluxo antigo)",
+      "media_id": "17981633483891816",
+      "legenda": -1,
+      "postado_em": "2026-09-07T21:01:10"
+    },
+    {
+      "data": "2026-09-05",
+      "arquivo": "post08.png (fluxo antigo)",
+      "media_id": "18107800064607464",
+      "legenda": -1,
+      "postado_em": "2026-09-05T18:55:48"
+    },
+    {
+      "data": "2026-09-06",
+      "arquivo": "vid04.mp4 (fluxo antigo)",
+      "media_id": "18108675347138487",
+      "legenda": -1,
+      "postado_em": "2026-09-06T12:01:33"
+    },
+    {
+      "data": "2026-09-07",
+      "arquivo": "ChatGPT Image 7 de set. de 2026, 21_15_33.png",
+      "media_id": "18163937911486324",
+      "legenda": 0,
+      "postado_em": "2026-09-07T21:32:55"
+    },
+    {
+      "data": "2026-09-07",
+      "arquivo": "ChatGPT Image 7 de set. de 2026, 21_19_07.png (extra)",
+      "media_id": "18057731960543479",
+      "legenda": 1,
+      "postado_em": "2026-09-07T21:35:49"
+    },
+    {
+      "data": "2026-09-08",
+      "arquivo": "ChatGPT Image 7 de set. de 2026, 21_20_52.png",
+      "media_id": "18406869439088851",
+      "legenda": 2,
+      "postado_em": "2026-09-08T14:04:50"
+    }
+  ]
+}

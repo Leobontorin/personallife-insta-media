@@ -1,0 +1,270 @@
+{
+  "_regras": "Banco rotativo. Robo usa 'proxima' e avanca. Legendas genericas de marca (servem qualquer arte preta+lime). Hook 1a linha, UM CTA, fecho link na bio, #personallife sempre, hashtags rotacionam A(corrida)/B(personal-treino)/C(marca). Nunca repete identica em sequencia. Editar/adicionar a vontade — robo se adapta ao tamanho da lista.",
+  "proxima": 3,
+  "legendas": [
+    {
+      "texto": "Seu relógio registra. Mas quem interpreta o dado?\n\nNúmero sem leitura é enfeite no pulso.\nDado vira evolução quando alguém prescreve em cima dele.\n\nMarca um amigo que corre de relógio e nunca olhou o dado.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#running",
+        "#corredores",
+        "#frequenciacardiaca",
+        "#garmin",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Ninguém vira a melhor versão por acaso.\n\nTreino, nutrição, recuperação, mindset — conectados.\nDisciplina é o que sobra quando a motivação acaba.\n\nSalva esse post pro dia que a preguiça chegar.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#disciplina",
+        "#evolucao",
+        "#mindset",
+        "#fitnessbrasil",
+        "#yourlifeinprogress",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Você não precisa de mais volume. Precisa de mais estrutura.\n\nO mesmo esforço, com lógica, vira evolução.\nSem lógica, vira só cansaço.\n\nComenta ESTRUTURA se você quer treinar certo.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#consultoriafitness",
+        "#treino",
+        "#musculacao",
+        "#educacaofisica",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "O treino no seu pulso. Do jeito que o personal prescreveu.\n\nZona de FC, intervalado, progressão.\nSem planilha, sem print, sem achismo.\n\nSegue o perfil pra ver o app rodando.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#treinodecorrida",
+        "#running",
+        "#garmin",
+        "#corredores",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Disciplina é silenciosa.\n\nNinguém vê o treino das 5h da manhã.\nTodo mundo vê o resultado de 365 dias.\n\nSegue o perfil pra acompanhar o lançamento.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#disciplina",
+        "#mindset",
+        "#evolucao",
+        "#vidasaudavel",
+        "#yourlifeinprogress",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Musculação e corrida brigam? Só quando mal programadas.\n\nQuando conectadas, uma puxa a outra.\nEstrutura vence volume. Sempre.\n\nCompartilha com quem treina tudo separado.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#musculacao",
+        "#corrida",
+        "#treino",
+        "#personalonline",
+        "#educacaofisica",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Zona de frequência não é enfeite.\n\nÉ a diferença entre evoluir e estagnar.\nRitmo certo, na hora certa, com propósito.\n\nSalva pro seu próximo intervalado.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#frequenciacardiaca",
+        "#corrida",
+        "#running",
+        "#treinodecorrida",
+        "#maratona",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Como você está — de verdade?\n\nTreino, nutrição, recuperação e mindset num número só.\nPrescrito pelo seu personal. No app e no seu pulso.\n\nSalva pra conhecer no lançamento.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#consultoriafitness",
+        "#treino",
+        "#personalonline",
+        "#musculacao",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Sua vida, em progresso.\n\nNão é sobre o treino de hoje.\nÉ sobre quem você vira depois de 365 treinos.\n\nSegue o perfil pra caminhar junto.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#yourlifeinprogress",
+        "#evolucao",
+        "#disciplina",
+        "#fitnessbrasil",
+        "#mindset",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "9 em cada 10 corredores erram o intervalado.\n\nNão é falta de esforço.\nÉ falta de estrutura.\n\nMarca um amigo que corre no achismo.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#corredores",
+        "#treinodecorrida",
+        "#running",
+        "#frequenciacardiaca",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Treino, dieta e recuperação no mesmo lugar. Conectados de verdade.\n\nUm app só. Uma lógica só.\nPrescrito por quem entende de você.\n\nSegue o perfil pra ver por dentro.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#treino",
+        "#consultoriafitness",
+        "#personalonline",
+        "#educacaofisica",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Recuperar é treinar.\n\nO sono é parte da prescrição.\nQuem não recupera não evolui — só acumula fadiga.\n\nSalva pra ler antes de dormir.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#vidasaudavel",
+        "#evolucao",
+        "#treino",
+        "#mindset",
+        "#fitnessbrasil",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Correr sem estrutura é gastar perna à toa.\n\nZona certa, ritmo certo, propósito em cada tiro.\nO resto é só suor sem direção.\n\nComenta AQUI se você já treinou sem saber pra quê.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#running",
+        "#maratona",
+        "#corredores",
+        "#treinodecorrida",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Motivação acaba. Sistema não.\n\nQuem depende de vontade, falha.\nQuem tem estrutura, executa.\n\nSalva pro dia difícil.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#disciplina",
+        "#mindset",
+        "#evolucao",
+        "#yourlifeinprogress",
+        "#vidasaudavel",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Seu personal sabe mais de você que seu feed.\n\nPrescrição de verdade usa seu dado, seu momento, seu corpo.\nNão a dica genérica do influencer.\n\nMarca teu personal aqui embaixo.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#educacaofisica",
+        "#consultoriafitness",
+        "#treino",
+        "#personalonline",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "O dado não mente.\n\nSono ruim, treino pesado, recuperação zero — a conta chega.\nQuem mede, ajusta. Quem não mede, quebra.\n\nCompartilha com quem vive no limite.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#frequenciacardiaca",
+        "#corrida",
+        "#running",
+        "#garmin",
+        "#vidasaudavel",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Constância vence intensidade.\n\nNão é o treino perfeito de segunda.\nÉ o treino possível de todo dia.\n\nSegue o perfil pra manter o ritmo.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#disciplina",
+        "#evolucao",
+        "#fitnessbrasil",
+        "#mindset",
+        "#yourlifeinprogress",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Planilha de PDF morreu.\n\nSeu treino no app, no relógio, no seu ritmo.\nAtualizado pelo personal em tempo real.\n\nComenta PDF se você já treinou de print.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#treino",
+        "#consultoriafitness",
+        "#personalonline",
+        "#musculacao",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Todo mundo corre. Pouca gente treina corrida.\n\nCorrer é sair de casa.\nTreinar é saber por que, quanto e em que zona.\n\nMarca um amigo que só acumula quilômetro.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#corredores",
+        "#running",
+        "#treinodecorrida",
+        "#maratona",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Evolução não grita. Ela acumula.\n\n+1% hoje. +1% amanhã.\nEm um ano, você não se reconhece.\n\nSalva como lembrete diário.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#evolucao",
+        "#disciplina",
+        "#mindset",
+        "#vidasaudavel",
+        "#yourlifeinprogress",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Treino bom é o que conversa com sua vida.\n\nSono, estresse, alimentação, agenda.\nPrescrição de verdade enxerga o todo.\n\nSegue o perfil pra treinar com contexto.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#personaltrainer",
+        "#educacaofisica",
+        "#treino",
+        "#consultoriafitness",
+        "#vidasaudavel",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Pace não é vaidade. É informação.\n\nCada ritmo tem uma função no seu plano.\nQuem entende isso para de se comparar e começa a evoluir.\n\nComenta seu pace atual sem vergonha.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#corrida",
+        "#running",
+        "#corredores",
+        "#frequenciacardiaca",
+        "#treinodecorrida",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "Você não está cansado. Está sem estrutura.\n\nTreino aleatório cobra caro: platô, lesão, desânimo.\nEstrutura devolve energia e direção.\n\nCompartilha com quem vive começando de novo.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#treino",
+        "#musculacao",
+        "#personaltrainer",
+        "#evolucao",
+        "#fitnessbrasil",
+        "#personallife"
+      ]
+    },
+    {
+      "texto": "O que você faz no escuro aparece na luz.\n\nTreino de madrugada, refeição certa, sono no horário.\nO pódio é só a parte visível.\n\nSegue o perfil pra construir no escuro.\n\nPersonal Life, link na bio 🟢",
+      "hashtags": [
+        "#disciplina",
+        "#mindset",
+        "#yourlifeinprogress",
+        "#evolucao",
+        "#vidasaudavel",
+        "#personallife"
+      ]
+    }
+  ]
+}
